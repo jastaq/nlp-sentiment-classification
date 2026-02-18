@@ -12,7 +12,7 @@ $$ \\frac{\\sum_{i=1}^{N} w(y_i) \\cdot 2^{-|y_i-\\hat{y_i}|^2}}{\\sum_{i=1}^{N}
 
 | Модель              | Score    | Training time (сек) |
 | ------------------- | -------- | ------------------- |
-| CatBoost            | 0.588964 | 158                 |
+| CatBoost            | 0.58896  | 158                 |
 | Logistic Regression | 0.51896  | 17.84               |
 | Linear SVC          | 0.48920  | 8.21                |
 | Naive Bayes         | 0.42336  | 0.06                |
